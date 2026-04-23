@@ -5,7 +5,7 @@ Retail managers lacked visibility into sales performance across regions and prod
 
 ## Dataset
 - Retail sales dataset
-- 10,000+ transactions
+- 1,000+ transactions
 - Fields: Sales, Profit, Category, Region, Customer, Order Date
 
 ## Tools Used
